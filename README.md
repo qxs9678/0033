@@ -87,4 +87,6 @@
 
 ## License
 
-[MIT](LICENSE)
+[PolyForm Noncommercial 1.0.0](LICENSE)
+
+个人学习、研究、非营利用途免费；**商用需要单独授权**（在 Issues 里说一声用途即可）。

@@ -42,4 +42,6 @@ Most beginners don't lack tutorials — they lack an answer to "what do I practi
 
 ## License
 
-[MIT](LICENSE)
+[PolyForm Noncommercial 1.0.0](LICENSE)
+
+Free for personal, educational, and other noncommercial use. **Commercial use requires a separate license** — open an Issue with your intended use.
